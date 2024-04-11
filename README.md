@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left"><strong>(JavaScript | Node Js | HTML | CSS | React | Java | SpringBoot | MySQL )  🚀</strong><br></p>
+<p align="left">(JavaScript | Node Js | HTML | CSS | React | Java | SpringBoot | MySQL )  🚀<br></p>
 <ul>
   <li>📚 Currently studying <strong>HTML CSS</strong> and <strong>JavaScript</strong>.</li>
   <li>🎓 Systems Development (3/3) <a href="https://www.escolatecnicalimoeiro.com.br/">@ ETE</a>.</li>
@@ -30,20 +30,20 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="70" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-  <img width="70" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
-  <img width="70" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="70" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="70" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
-  <img width="70" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="spring logo"  />
-  <img width="70" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
 ###
@@ -51,10 +51,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jefferson-da-silva-santos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="193" alt="stats graph"  /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jefferson-da-silva-santos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="193" alt="languages graph"  />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jefferson-da-silva-santos&radius=16&theme=react&area=true&order=5" height="318" alt="activity-graph graph"  />
 </div>
 
 ###

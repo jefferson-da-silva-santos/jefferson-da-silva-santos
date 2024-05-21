@@ -18,7 +18,7 @@
 <p align="left">(JavaScript | Node Js | HTML | CSS | React | Java | SpringBoot | MySQL )  🚀<br></p>
 <ul>
   <li>📚 Currently studying <strong>HTML CSS</strong> and <strong>JavaScript</strong>.</li>
-  <li>🎓 Systems Development (3/3) <a href="https://www.escolatecnicalimoeiro.com.br/">@ ETE</a>.</li>
+  <li>🎓 Systems Development (3/3) <a href="https://www.escolatecnicalimoeiro.com.br/" target="_blank">@ ETE</a>.</li>
   <li>🌐 Passionate about <strong>web development</strong>.</li>
   <li>💡 captivated by the challenge.</li>
   <li>🥲 Sometimes I test my sanity with <strong>Java</strong></li>

@@ -1,6 +1,6 @@
-<h1 align="left">Hello, nubles! 🫡</h1>
-
-###
+<img width=100% bottom=50px src="https://github.com/jefferson-da-silva-santos/jefferson-da-silva-santos/assets/163202501/3261aace-0d5c-4a96-8e48-783568f86099"/>
+<br>
+<br> 
 
 <div align="left">
   <a target="_blank" rel="external" href="https://www.linkedin.com/in/jefferson-santos-a87b74277/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  /></a>

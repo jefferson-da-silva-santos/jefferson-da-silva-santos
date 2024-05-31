@@ -1,5 +1,3 @@
-<img width=100% bottom=50px src="https://github.com/jefferson-da-silva-santos/jefferson-da-silva-santos/assets/163202501/8b54b061-90e5-4255-8dd9-db0e45d259e4"/>
-<br>
 <br> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=F79A00&center=true&random=false&width=1000&height=150&lines=Full-Stack+Developer;Coding+while+the+coffee+is+hot)](https://git.io/typing-svg)

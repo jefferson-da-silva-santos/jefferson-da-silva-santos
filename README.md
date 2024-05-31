@@ -55,7 +55,7 @@
 
 <img align="left"  height="60" width="60" src="https://github.com/jefferson-da-silva-santos/jefferson-da-silva-santos/assets/163202501/3b9d44a9-562a-4092-a30a-7e7e09180d49">
 
-<img align="left"  height="60" width="60" src="https://github.com/jefferson-da-silva-santos/jefferson-da-silva-santos/assets/163202501/b952a76a-7334-4ebc-ad4e-d1f55ceab803">
+<img align="left"  height="55" width="55" src="https://github.com/jefferson-da-silva-santos/jefferson-da-silva-santos/assets/163202501/b952a76a-7334-4ebc-ad4e-d1f55ceab803">
 
 </div>
 
@@ -81,7 +81,7 @@
 
 <img align="left"  height="60" width="60" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
 
-<img align="left"  height="60" width="60" src="https://github.com/jefferson-da-silva-santos/jefferson-da-silva-santos/assets/163202501/b952a76a-7334-4ebc-ad4e-d1f55ceab803">
+<img align="left"  height="55" width="55" src="https://github.com/jefferson-da-silva-santos/jefferson-da-silva-santos/assets/163202501/b952a76a-7334-4ebc-ad4e-d1f55ceab803">
 
 </div>
 

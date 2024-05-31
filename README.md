@@ -10,6 +10,7 @@
   
 </div>
 
+<br>
 <div align="center"> 
 <a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank">
 <img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3000a2c-f43c-4145-9f8d-3c5b58a5dae0">

@@ -1,56 +1,87 @@
-<h1 align="left">Hello, nubles! 🫡</h1>
+<img width=100% bottom=50px src="https://github.com/jefferson-da-silva-santos/jefferson-da-silva-santos/assets/163202501/8b54b061-90e5-4255-8dd9-db0e45d259e4"/>
+<br>
+<br> 
 
-###
-
-<div align="left">
-  <a target="_blank" rel="external" href="https://www.linkedin.com/in/jefferson-santos-a87b74277/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  /></a>
-  <a target="_blank" rel="external" href="https://www.youtube.com/@JeffersonDev-cv7su"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="youtube logo"  /></a>
-  <a target="_blank" rel="external" href=""><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo" /></a>
-  <a><img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="dribbble logo"  /></a>
-</div>
-
-###
-
-<h2 align="left">My name is <strong>Jefferson Santos</strong></h2>
-
-###
-
-<p align="left">(JavaScript | Node Js | HTML | CSS | React | Java | SpringBoot | MySQL )  🚀<br></p>
-<ul>
-  <li>📚 Currently studying <strong>HTML CSS</strong> and <strong>JavaScript</strong>.</li>
-  <li>🎓 Systems Development (3/3) <a href="https://www.escolatecnicalimoeiro.com.br/" target="_blank">@ ETE</a>.</li>
-  <li>🌐 Passionate about <strong>web development</strong>.</li>
-  <li>💡 captivated by the challenge.</li>
-  <li>🥲 Sometimes I test my sanity with <strong>Java</strong></li>
-</ul>
-
-<h2 align="left">Skills</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
-
-###
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=F79A00&center=true&random=false&width=1000&height=150&lines=Full-Stack+Developer;Coding+while+the+coffee+is+hot)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jefferson-da-silva-santos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jefferson-da-silva-santos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="180" alt="languages graph"  />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jefferson-da-silva-santos&theme=highcontrast&card_width=900&card_height=270)](https://git.io/streak-stats)
+  
 </div>
 
-###
+<br>
+<div align="center"> 
+<a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank">
+<img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3000a2c-f43c-4145-9f8d-3c5b58a5dae0">
+</a>
+
+
+<a href="mailto:cmp.1a.caroline@gmail.com">
+<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
+</a>
+
+
+<a  href="https://www.linkedin.com/in/carolbarbosa/" target=_blank>
+<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
+</a>
+
+<br>
+<div align="center" >
+   
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/jefferson-da-silva-santos?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=yellow) 
+
+</div>
+
+
+<div align="left"> 
+  
+### Main skills:
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
+
+<img align="left" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
+
+<img align="left" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
+
+<img align="left"  height="80" width="80" src="https://github.com/jefferson-da-silva-santos/jefferson-da-silva-santos/assets/163202501/3b9d44a9-562a-4092-a30a-7e7e09180d49">
+
+<img align="left"  height="80" width="80" src="https://github.com/jefferson-da-silva-santos/jefferson-da-silva-santos/assets/163202501/b952a76a-7334-4ebc-ad4e-d1f55ceab803">
+
+</div>
+
+<br>
+<br> 
+<br>
+<br>
+<br>
+<br> 
+
+
+<h2 align="left"> Studying in this moment: </h2>
+
+
+<div align="left"> 
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc">
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
+
+<img align="left"  height="80" width="80" src="https://github.com/jefferson-da-silva-santos/jefferson-da-silva-santos/assets/163202501/b952a76a-7334-4ebc-ad4e-d1f55ceab803">
+
+</div>
+
+
+

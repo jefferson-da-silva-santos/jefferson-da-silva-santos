@@ -2,6 +2,8 @@
 <br>
 <br> 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=F2F71D&center=true&random=false&width=1000&height=150&lines=Full-Stack+Developer;Coding+while+the+coffee+is+hot)](https://git.io/typing-svg)
+
 <div align="left">
   <a target="_blank" rel="external" href="https://www.linkedin.com/in/jefferson-santos-a87b74277/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  /></a>
   <a target="_blank" rel="external" href="https://www.youtube.com/@JeffersonDev-cv7su"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="youtube logo"  /></a>

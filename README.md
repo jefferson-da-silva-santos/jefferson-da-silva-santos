@@ -31,10 +31,11 @@
 
 </div>
 
+<br>
 
 <div align="left"> 
   
-### Main skills:
+<h2 align="left">Main skills:</h2>
 
 <img align="left"  height="60" width="60" margin="20" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
 

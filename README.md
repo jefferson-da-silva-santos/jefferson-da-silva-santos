@@ -77,11 +77,11 @@
 
 <img align="left"  height="60" width="60" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
 
-<img align="left"  height="60" width="60" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc">
-
 <img align="left"  height="60" width="60" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
 
 <img align="left"  height="55" width="55" src="https://github.com/jefferson-da-silva-santos/jefferson-da-silva-santos/assets/163202501/b952a76a-7334-4ebc-ad4e-d1f55ceab803">
+
+<img align="left"  height="60" width="60" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
 
 </div>
 

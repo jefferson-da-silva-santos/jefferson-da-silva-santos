@@ -1,3 +1,6 @@
+<div align="center">
+  <img  src="https://github.com/jefferson-da-silva-santos/curso-web-frontend-2024-html-css-js/assets/163202501/85bb692d-337a-4585-8992-498630606768">
+</div>
 <br> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=F79A00&center=true&random=false&width=1000&height=150&lines=Full-Stack+Developer;Coding+while+the+coffee+is+hot)](https://git.io/typing-svg)

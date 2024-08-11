@@ -3,7 +3,7 @@
 ## My name is Jefferson Santos
 
 <img align="right" alt="Code Girl image" src="https://github.com/user-attachments/assets/13d9040c-ccb6-425e-9cf4-ab573a7f6067"  width="300px"/>
-
+<br>
 (JavaScript | NodeJs | HTML | CSS | React | SQL | PostgresSQL | MySQL | Java | Git | Spring Boot) 🧠🧩</p>
 <ul>
   <li>💡 Systems development @<a href="https://www.escolatecnicalimoeiro.com.br/">ETE</a>.</li>

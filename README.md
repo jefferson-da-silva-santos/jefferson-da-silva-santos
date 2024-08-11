@@ -36,7 +36,7 @@
 <h2 align="left">Main skills:</h2>
 <br>
 
-<img align="left"  height="40" width="40" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
+<img align="left"  height="40" width="40" margin="20" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
 
 <img align="left" height="40" width="40" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
 

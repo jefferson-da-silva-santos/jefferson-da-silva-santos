@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&size=35&pause=1000&color=0076F7&width=600&height=60&lines=Hello+Nobles!+%F0%9F%91%8B;Full-Stack+Web+Developer.+%E2%99%A8%EF%B8%8F;Let's+code+together%3F+%F0%9F%A7%A0%F0%9F%A7%A9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=35&pause=1000&color=0076F7&width=600&height=60&lines=Hello+Nobles!+%F0%9F%91%8B;Full-Stack+Web+Developer.+%E2%99%A8%EF%B8%8F;Let's+code+together%3F+%F0%9F%A7%A0%F0%9F%A7%A9)](https://git.io/typing-svg)
 
 <h2>My name is Jefferson Santos</h2>
 
@@ -12,19 +12,19 @@
 </ul>
 
 <br>
-<div align=""> 
+<div > 
 <a href="" target="_blank">
-<img align="center" height="50" width="50" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3000a2c-f43c-4145-9f8d-3c5b58a5dae0">
+<img align="center" height="40" width="40" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3000a2c-f43c-4145-9f8d-3c5b58a5dae0">
 </a>
 
 
 <a href="">
-<img align="center"  height="50" width="50" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
+<img align="center"  height="40" width="40" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
 </a>
 
 
 <a  href="https://www.linkedin.com/in/jefferson-santos-a87b74277/" target=_blank>
-<img align="center"  height="50" width="50" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
+<img align="center"  height="40" width="40" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
 </a>
 
 <br>

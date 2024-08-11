@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=35&pause=1000&color=0076F7&width=600&height=60&center=true&lines=Hello+Nobles!+%F0%9F%91%8B;Full-Stack+Web+Developer.+%E2%99%A8%EF%B8%8F;Let's+code+together%3F+%F0%9F%A7%A0%F0%9F%A7%A9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=50&pause=1000&color=0076F7&width=600&height=100&center=true&lines=Hello+Nobles!+%F0%9F%91%8B;Full-Stack+Web+Developer.+%E2%99%A8%EF%B8%8F;Let's+code+together%3F+%F0%9F%A7%A0%F0%9F%A7%A9)](https://git.io/typing-svg)
 
 ## My name is Jefferson Santos
 

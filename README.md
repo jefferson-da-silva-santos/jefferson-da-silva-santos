@@ -1,8 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=35&pause=1000&color=0076F7&width=600&height=60&lines=Hello+Nobles!+%F0%9F%91%8B;Full-Stack+Web+Developer.+%E2%99%A8%EF%B8%8F;Let's+code+together%3F+%F0%9F%A7%A0%F0%9F%A7%A9)](https://git.io/typing-svg)
 
-<h2>My name is Jefferson Santos</h2>
+## My name is Jefferson Santos
 
-<p>(JavaScript | NodeJs | HTML | CSS | React | SQL | PostgresSQL | MySQL | Java | Git | Spring Boot) 🧠🧩</p>
+<img align="right" alt="Code Girl image" src="https://github.com/user-attachments/assets/13d9040c-ccb6-425e-9cf4-ab573a7f6067"  width="300px"/>
+
+(JavaScript | NodeJs | HTML | CSS | React | SQL | PostgresSQL | MySQL | Java | Git | Spring Boot) 🧠🧩</p>
 <ul>
   <li>💡 Systems development @<a href="https://www.escolatecnicalimoeiro.com.br/">ETE</a>.</li>
   <li>🌐 Passionate about web development.</li>
@@ -36,7 +38,7 @@
 <h2 align="left">Main skills:</h2>
 <br>
 
-<img align="left"  height="40" width="40" margin="20" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
+<img align="left"  height="40" width="40" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
 
 <img align="left" height="40" width="40" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
 

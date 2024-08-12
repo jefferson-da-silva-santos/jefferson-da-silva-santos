@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=50&pause=1000&color=0076F7&width=600&height=100&center=true&lines=Hello+Nobles!+%F0%9F%91%8B;Full-Stack+Web+Developer.+%E2%99%A8%EF%B8%8F;Let's+code+together%3F+%F0%9F%A7%A0%F0%9F%A7%A9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=35&pause=1000&color=0076F7&width=600&height=100&center=true&lines=Hello+Nobles!+%F0%9F%91%8B;Full-Stack+Web+Developer.+%E2%99%A8%EF%B8%8F;Let's+code+together%3F+%F0%9F%A7%A0%F0%9F%A7%A9)](https://git.io/typing-svg)
 
 ## My name is Jefferson Santos
 
 <img align="right" alt="Code Girl image" src="https://github.com/user-attachments/assets/13d9040c-ccb6-425e-9cf4-ab573a7f6067"  width="300px"/>
 <br>
-(JavaScript | NodeJs | HTML | CSS | React | SQL | PostgresSQL | MySQL | Java | Git | Spring Boot) 🧠🧩</p>
+(JavaScript | NodeJs | HTML | CSS | React | SQL | Java | Git | Spring Boot) 🧠🧩</p>
 <ul>
   <li>💡 Systems development @<a href="https://www.escolatecnicalimoeiro.com.br/">ETE</a>.</li>
   <li>🌐 Passionate about web development.</li>

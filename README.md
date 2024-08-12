@@ -4,18 +4,18 @@
 
 </div>
 
-## My name is Jefferson Santos
+## My name is Jefferson Santos 👤
 
 <img align="right" alt="Code Girl image" src="https://github.com/user-attachments/assets/13d9040c-ccb6-425e-9cf4-ab573a7f6067"  width="300px"/>
 <br>
 (JavaScript | NodeJs | HTML | CSS | React | SQL | Java | Git | Spring Boot) 🧠🧩</p>
-<ul>
-  <li>💡 Systems development @<a href="https://www.escolatecnicalimoeiro.com.br/">ETE</a>.</li>
-  <li>🌐 Passionate about web development.</li>
-  <li>📌 I'm currently improving my knowledge in building Rest API's with Node and Express.</li>
-  <li>👨‍💻 I also work as a freelancer.</li>
-  <li>🔥 Always looking for challenges.</li>
-</ul>
+
+- 💡 Systems development @<a href="https://www.escolatecnicalimoeiro.com.br/">ETE</a>.
+- 🌐 Passionate about web development.
+- 📌 I'm currently improving my knowledge in building Rest API's with Node and Express.
+- 👨‍💻 I also work as a freelancer.
+- 🔥 Always looking for challenges.
+
 
 <br>
 <div > 
@@ -39,7 +39,7 @@
 
 <div align="left"> 
   
-<h2 align="left">Main skills:</h2>
+<h2 align="left">Main skills 🚀</h2>
 <br>
 
 <img align="left"  height="40" width="40" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
@@ -67,7 +67,7 @@
 <br>
 <br>
 <br>
-<h2 align="left"> Studying in this moment: </h2>
+<h2 align="left"> Studying in this moment 🚀</h2>
 <br>
 
 

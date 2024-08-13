@@ -7,6 +7,8 @@
 
 <img align="right" alt="Code Girl image" src="https://github.com/user-attachments/assets/13d9040c-ccb6-425e-9cf4-ab573a7f6067"  width="300px"/>
 <br>
+<br>
+<br>
 (JavaScript | NodeJs | HTML | CSS | React | SQL | Java | Git | Spring Boot) 🧠🧩</p>
 
 - 💡 Systems development @<a href="https://www.escolatecnicalimoeiro.com.br/">ETE</a>.
@@ -90,6 +92,7 @@
 </div>
 
 
+<br>
 <br>
 <br>
 

@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=50&pause=1000&color=BE984A&width=1000&height=100&center=true&lines=Hello+Nobles!+%F0%9F%91%8B;Full-Stack+Web+Developer.+%E2%99%A8%EF%B8%8F;Let's+code+together%3F+%F0%9F%A7%A0%F0%9F%A7%A9)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=50&pause=1000&color=EA0059&width=1000&height=100&center=true&lines=Hello+Nobles!+%F0%9F%91%8B;Full-Stack+Web+Developer.+%E2%99%A8%EF%B8%8F;Let's+code+together%3F+%F0%9F%A7%A0%F0%9F%A7%A9)](https://git.io/typing-svg)
 </div>
 
 ## My name is Jefferson Santos 👤
@@ -14,85 +14,18 @@
 - 🔥 Always looking for challenges.
 
 #
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jefferson-santos-a87b74277) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/jeffrrwpg678) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/jefferson-santos) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@JeffersonDev-cv7su) 
 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jefferson&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jefferson&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
 <br>
-
-## My social networks 🌐
-
-<div > 
-<a href="" target="_blank">
-<img align="center" height="40" width="40" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3000a2c-f43c-4145-9f8d-3c5b58a5dae0">
-</a>
-
-
-<a href="">
-<img align="center"  height="40" width="40" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
-</a>
-
-
-<a  href="https://www.linkedin.com/in/jefferson-santos-a87b74277/" target=_blank>
-<img align="center"  height="40" width="40" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
-</a>
-
-#
-
-<div align="left"> 
-  
-<h2 align="left">Main skills 🚀</h2>
-<br>
-
-<img align="left"  height="40" width="40" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
-
-<img align="left" height="40" width="40" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
-
-<img align="left" height="40" width="40" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
-
-<img align="left"  height="40" width="40" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
-
-<img align="left"  height="40" width="40" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
-
-<img align="left"  height="40" width="40" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
-
-<img align="left"  height="40" width="40" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
-
-<img align="left"  height="40" width="40" src="https://static-00.iconduck.com/assets.00/postgresql-icon-1987x2048-v2fkmdaw.png">
-
-<img align="left"  height="40" width="40" src="https://github.com/jefferson-da-silva-santos/jefferson-da-silva-santos/assets/163202501/3b9d44a9-562a-4092-a30a-7e7e09180d49">
-
-<img align="left"  height="35" width="35" src="https://github.com/jefferson-da-silva-santos/jefferson-da-silva-santos/assets/163202501/b952a76a-7334-4ebc-ad4e-d1f55ceab803">
-
-</div>
-
-<br>
-<br>
-
-#
-<h2 align="left"> Studying in this moment 🚀</h2>
-<br>
-
-
-<div align="left"> 
-
-<img align="left"  height="40" width="40" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
-
-<img align="left"  height="40" width="40" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
-
-<img align="left"  height="40" width="40" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
-
-<img align="left"  height="35" width="35" src="https://github.com/jefferson-da-silva-santos/jefferson-da-silva-santos/assets/163202501/b952a76a-7334-4ebc-ad4e-d1f55ceab803">
-
-<img align="left"  height="40" width="40" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
-
-<img align="left"  height="40" width="40" src="https://static-00.iconduck.com/assets.00/postgresql-icon-1987x2048-v2fkmdaw.png">
-
-</div>
-
-
-<br>
-<br>
-<br>
-
-#
 
 <div align="center" >
    

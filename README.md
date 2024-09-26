@@ -5,8 +5,6 @@
 
 ## My name is Jefferson Santos 👤
 
-(JavaScript | NodeJs | HTML | CSS | React | SQL | Java | Git | Spring Boot) 🧠🧩</p>
-
 - 💡 Systems development @<a href="https://www.escolatecnicalimoeiro.com.br/">ETE</a>.
 - 🌐 Passionate about web development.
 - 📌 Currently improving knowledge in Rest APIs with Node and Express.

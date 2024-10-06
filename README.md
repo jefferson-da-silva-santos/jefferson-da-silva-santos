@@ -6,6 +6,7 @@
 # My name is Jefferson Santos 👤
 
 - 💡 Systems development @<a href="https://www.escolatecnicalimoeiro.com.br/">ETE</a>.
+- 👤 See my <a href="https://jeffersondev.netlify.app">personal portfolio</a>.
 - 🌐 Passionate about web development.
 - 📌 Currently improving knowledge in Rest APIs with Node and Express.
 - 👨‍💻 I also work as a freelancer.

@@ -3,14 +3,24 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=50&pause=1000&color=fe428e&width=1000&height=100&center=true&lines=Hello+Nobles!+%F0%9F%91%8B;Full-Stack+Web+Developer.+%E2%99%A8%EF%B8%8F;Let's+code+together%3F+%F0%9F%A7%A0%F0%9F%A7%A9)](https://git.io/typing-svg)
 </div>
 
-# My name is Jefferson Santos 👤
+# 😶‍🌫️ Meu nome é Jefferson Santos!
 
-- 💡 Systems development @<a href="https://www.escolatecnicalimoeiro.com.br/">ETE</a>.
-- 👤 See my <a href="https://jeffersondev.netlify.app">personal portfolio</a>.
-- 🌐 Passionate about web development.
-- 📌 Currently improving knowledge in Rest APIs with Node and Express.
-- 👨‍💻 I also work as a freelancer.
-- 🔥 Always looking for challenges.
+Hello, dev! Tudo certo? Bem-vindo ao meu repositório. Aqui você encontra meus projetos, ideias um tanto quanto... 'e se?' (e a resposta pode ser 'ih, rapaz') e, claro, aqueles commits de última hora que todo mundo tem! ✨💻
+
+
+- 💡 Desenvolvimento de Sistemas @<a href="https://www.escolatecnicalimoeiro.com.br/">ETE</a>.
+- 👤 Se liga no meu <a href="https://jeffersondev.netlify.app">portifólio</a>.
+- 🌐 Apaixonado em desenvolvimento Web.
+- ☕ Java é lindo! Java é um amor!
+- 👨‍💻 Também faço uns freelas por aí.
+- 🔥 Sempre em busca de desafios.
+
+## 💡 Filosofia de Código
+
+Aqui nós seguimos algumas regras simples:
+1. **Se funciona, tá bom!** Mas se der tempo, refatora...
+2. **Console.log() é debugger?** SIM! (até eu lembrar que existe o Debug do VS Code).
+3. **Versão 1 é melhor que versão nenhuma!** Deploy primeiro, refatora depois (ou nunca).
 
 
 # 💻 Tech Stack:
@@ -32,6 +42,7 @@
 </div>
 
 <br>
+
 
 
 

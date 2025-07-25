@@ -6,22 +6,30 @@
 
 #  Meu nome é Jefferson Santos!
 
+
 Hello, dev! Tudo certo? Bem-vindo ao meu repositório. Aqui você encontra meus projetos, ideias um tanto quanto... 'e se?' (e a resposta pode ser 'ih, rapaz') e, claro, aqueles commits de última hora que todo mundo tem! ✨💻
 
 
-- 💡 Desenvolvimento de Sistemas @<a href="https://www.escolatecnicalimoeiro.com.br/">ETE</a>.
-- 👤 Se liga no meu <a href="https://jeffersondev.netlify.app">portifólio</a>.
-- 🌐 Apaixonado em desenvolvimento Web.
-- ☕ Java é lindo! Java é um amor!
-- 👨‍💻 Também faço uns freelas por aí.
-- 🔥 Sempre em busca de desafios.
+- Desenvolvimento de Sistemas @<a href="https://www.escolatecnicalimoeiro.com.br/">ETE</a>.
+- Se liga no meu <a href="https://jeffersondev.netlify.app">portifólio</a>.
+- Apaixonado em desenvolvimento Web.
+- Java é lindo! Java é um amor!
+-  Também faço uns freelas por aí.
+- Sempre em busca de desafios.
+<br>
+<br>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+# Tech Stack:
+<br>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;"> <img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/READMI/react.png" alt="React" width="80" height="100"/> <img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/READMI/next.png" alt="Next.js" width="80" height="100"/> <img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/READMI/nest.png" alt="NestJS" width="80" height="100"/> <img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/READMI/js.png" alt="JavaScript" width="80" height="100"/> <img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/READMI/ts.png" alt="TypeScript" width="80" height="100"/> <img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/READMI/node.png" alt="Node.js" width="100" height="100"/> <img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/READMI/mysql.png" alt="MySQL" width="100" height="90"/> <img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/READMI/postgresql.png" alt="PostgreSQL" width="100" height="100"/> <img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/READMI/java.png" alt="Java" width="80" height="100"/> <img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/READMI/git.png" alt="Git" width="150" height="100"/> <img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/READMI/docker.png" alt="Docker" width="100" height="100"/> </div>
 <br>
 <br>
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jefferson-santos-a87b74277) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/jeffrrwpg678) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/jefferson-santos) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@JeffersonDev-cv7su) 
+
 # 📊 GitHub Stats:
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jefferson&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 

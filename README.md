@@ -1,9 +1,10 @@
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=50&pause=1000&color=8511FA&width=1000&height=100&center=true&lines=Hello+Nobles!+%F0%9F%91%8B;Full-Stack+Web+Developer.+%E2%99%A8%EF%B8%8F;Let's+code+together%3F+%F0%9F%A7%A0%F0%9F%A7%A9)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rock+Salt&size=50&pause=1000&color=00D8FF&width=1000&height=100&center=true&lines=Hello+Nobles!+%F0%9F%91%8B;Full-Stack+Web+Developer.+%E2%99%A8%EF%B8%8F;Let's+code+together%3F+%F0%9F%A7%A0%F0%9F%A7%A9)](https://git.io/typing-svg)
+
 </div>
 
-# 😁 Meu nome é Jefferson Santos!
+#  Meu nome é Jefferson Santos!
 
 Hello, dev! Tudo certo? Bem-vindo ao meu repositório. Aqui você encontra meus projetos, ideias um tanto quanto... 'e se?' (e a resposta pode ser 'ih, rapaz') e, claro, aqueles commits de última hora que todo mundo tem! ✨💻
 

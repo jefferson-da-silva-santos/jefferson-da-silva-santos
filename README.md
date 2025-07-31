@@ -6,16 +6,18 @@
 
 #  Meu nome é Jefferson Santos!
 
+**Fala, Dev!** Sou Jefferson Santos, um desenvolvedor Web Full-Stack. <strong>Seja muito bem-vindo ao meu repositório!</strong>
+Aqui você vai encontrar minhas ideias, aqueles commits de última hora (quem nunca?) e, claro, muito código na veia.
+Bora trocar uma ideia? Tomar aquele cafézinho e, quem sabe, programar algo massa juntos? ✨💻
 
-Hello, dev! Tudo certo? Bem-vindo ao meu repositório. Aqui você encontra meus projetos, ideias um tanto quanto... 'e se?' (e a resposta pode ser 'ih, rapaz') e, claro, aqueles commits de última hora que todo mundo tem! ✨💻
 
-
-- Desenvolvimento de Sistemas @<a href="https://www.escolatecnicalimoeiro.com.br/">ETE</a>.
-- Se liga no meu <a href="https://jeffersondev.netlify.app">portifólio</a>.
-- Apaixonado em desenvolvimento Web.
-- Java é lindo! Java é um amor!
--  Também faço uns freelas por aí.
-- Sempre em busca de desafios.
+- 👨‍💻 Desenvolvimento de Sistemas @<a href="https://www.escolatecnicalimoeiro.com.br/">ETE</a> (3/3).
+- 🥰 Confere meu <a href="https://jeffersondev.netlify.app">portifólio</a> aí.
+- 🌐 Apaixonado em desenvolvimento Web.
+- 📱 Começando no desenvolvimento Mobile.
+- ☕ Java é lindo! Java é um amor!
+- 📌 Também faço uns freelas por aí.
+- 🔥 Sempre em busca de desafios.
 <br>
 <br>
 

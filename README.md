@@ -15,7 +15,7 @@ Bora trocar uma ideia? Tomar aquele cafézinho e, quem sabe, programar algo mass
 - 🥰 Confere meu <a href="https://jeffersondev.netlify.app">portifólio</a> aí.
 - 🌐 Apaixonado em desenvolvimento Web.
 - 📱 Começando no desenvolvimento Mobile.
-- ☕ Java é lindo! Java é um amor!
+- ☕ Java é lindo!
 - 📌 Também faço uns freelas por aí.
 - 🔥 Sempre em busca de desafios.
 <br>

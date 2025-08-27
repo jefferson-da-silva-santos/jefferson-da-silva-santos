@@ -23,7 +23,27 @@ Bora trocar uma ideia? Tomar aquele cafézinho e, quem sabe, programar algo mass
 
 # Tech Stack:
 <br>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px;"> <img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/READMI/react.png" alt="React" width="80" height="100"/> <img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/READMI/next.png" alt="Next.js" width="80" height="100"/> <img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/READMI/nest.png" alt="NestJS" width="80" height="100"/> <img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/READMI/js.png" alt="JavaScript" width="80" height="100"/> <img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/READMI/ts.png" alt="TypeScript" width="80" height="100"/> <img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/READMI/node.png" alt="Node.js" width="100" height="100"/> <img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/READMI/mysql.png" alt="MySQL" width="100" height="90"/> <img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/READMI/postgresql.png" alt="PostgreSQL" width="100" height="100"/> <img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/READMI/java.png" alt="Java" width="80" height="100"/> <img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/READMI/git.png" alt="Git" width="150" height="100"/> <img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/READMI/docker.png" alt="Docker" width="100" height="100"/> </div>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
+<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/NovoPortifolio/skill_next.webp" alt="Next.js" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/NovoPortifolio/skill_vite.webp" alt="Vite" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/NovoPortifolio/skill_js.webp" alt="JavaScript" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/NovoPortifolio/skill_ts.webp" alt="TypeScript" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/NovoPortifolio/skill_html.webp" alt="HTML" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/NovoPortifolio/skill_css.webp" alt="CSS" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/NovoPortifolio/skill_sass.webp" alt="Sass" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/NovoPortifolio/skill_node.webp" alt="Node.js" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/NovoPortifolio/skill_express.webp" alt="Express" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/NovoPortifolio/skill_nest.webp" alt="NestJS" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/NovoPortifolio/skill_java.webp" alt="Java" width="50" height="60"/>
+<img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/NovoPortifolio/skill_mysql.webp" alt="MySQL" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/NovoPortifolio/skill_postgres.webp" alt="PostgreSQL" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/NovoPortifolio/skill_flutter.webp" alt="Flutter" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/NovoPortifolio/skill_git.webp" alt="Git" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/NovoPortifolio/skill_docker.webp" alt="Docker" width="50" height="50"/>
+</div>
+
+
 <br>
 <br>
 

@@ -15,7 +15,7 @@ Curte trocar ideia sobre tech, frameworks e aquele bug cabeludo? Bora conversar!
 
 ## 👨‍💻 Sobre mim  
 
-- 🎓 **Formado em Desenvolvimento de Sistemas** @ [ETE](https://www.escolatecnicalimoeiro.com.br/) (3/3).  
+- 🎓 **Técnico em Desenvolvimento de Sistemas** @ [ETE](https://www.escolatecnicalimoeiro.com.br/) (3/3).  
 - 🌐 Apaixonado por **desenvolvimento Web**.  
 - 📱 Explorando o universo **Mobile**.  
 - ☕ **Java Lover** (sim, eu curto umas classes e interfaces 🤓).  

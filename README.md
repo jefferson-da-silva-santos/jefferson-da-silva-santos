@@ -62,8 +62,17 @@ Curte trocar ideia sobre tech, frameworks e aquele bug cabeludo? Bora conversar!
 
 ## 📊 GitHub Stats  
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=jefferson&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+<div align="center">
+
+| 🔥 Streaks | 📈 Estatísticas |
+|------------|----------------|
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=jefferson-da-silva-santos&theme=radical&hide_border=false" alt="Streak Stats"/> | <img src="https://github-readme-stats.vercel.app/api?username=jefferson-da-silva-santos&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/> |
+
+| 🏆 Linguagens Mais Usadas | 🚀 Atividades |
+|---------------------------|---------------|
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson-da-silva-santos&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs"/> | ![](https://github-readme-activity-graph.vercel.app/graph?username=jefferson-da-silva-santos&theme=react-dark&hide_border=false) |
+
+</div>
 
 ---
 

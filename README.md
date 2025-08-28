@@ -53,7 +53,7 @@ Curte trocar ideia sobre tech, frameworks e aquele bug cabeludo? Bora conversar!
 
 ## 🌍 Conecte-se comigo  
 
-<div align="start">
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jefferson-santos-a87b74277)
 [![Pinterest](https://img.shields.io/badge/-Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/jeffrrwpg678)

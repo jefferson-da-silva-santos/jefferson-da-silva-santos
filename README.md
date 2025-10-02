@@ -29,7 +29,7 @@ Curte trocar ideia sobre tech, frameworks e aquele bug cabeludo? Bora conversar!
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
 
-<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React" width="60" height="60"/>
+<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/NovoPortifolio/skill_next.webp" alt="Next.js" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/NovoPortifolio/skill_vite.webp" alt="Vite" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/jefferson-da-silva-santos/imagens-projetos/refs/heads/main/NovoPortifolio/skill_js.webp" alt="JavaScript" width="50" height="40"/>

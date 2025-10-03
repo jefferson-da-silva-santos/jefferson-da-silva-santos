@@ -1,8 +1,5 @@
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rock+Salt&size=50&pause=1000&color=00D8FF&width=1000&height=100&center=true&lines=Hello+Nobles!+%F0%9F%91%8B;Full-Stack+Web+Developer+%E2%99%A8%EF%B8%8F;Let's+Code+Together!+%F0%9F%A7%A0%F0%9F%A7%A9)](https://git.io/typing-svg)
 
-</div>
+<img src="https://github.com/user-attachments/assets/cdd1da01-707f-455d-a795-b695e670d1ec" alt="Jefferson" width="400" height="800" align="right" />
 
 # 👋 Olá, eu sou o Jefferson Santos!  
 
@@ -78,17 +75,6 @@ Curte trocar ideia sobre tech, frameworks e aquele bug cabeludo? Bora conversar!
 
 </div>
 
----
-
-## 💡 Filosofia de Código  
-
-> Aqui a gente acredita em 3 leis universais da programação:  
-
-1. **Se funciona, já é meio caminho andado.** Refatorar vem depois (ou nunca 😅).  
-2. **Console.log() é sim ferramenta de debug.** Até eu lembrar do debugger do VS Code…  
-3. **Versão 1 > Versão nenhuma.** Deploy primeiro, refatora depois.  
-
----
 
 <div align="center">
 

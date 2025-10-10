@@ -8,53 +8,54 @@ Fique a vontade para explorar meus projetos...
 
 ---
 
-## 👨‍💻 Bem, eu sou...
+## 🐙 Bem, eu sou...
 
-- 🎓 **Técnico em Desenvolvimento de Sistemas** @ [ETE](https://www.escolatecnicalimoeiro.com.br/) (3/3).  
+- 🎓 **Técnico em Desenvolvimento de Sistemas** @[ETE](https://www.escolatecnicalimoeiro.com.br/) (3/3).  
 - 🌐 Apaixonado por **desenvolvimento Web**.  
 - 📱 Um pequeno explorador do universo **Mobile**.  
 - ☕ **Java Lover**.  
-- 📌 Faço uns **freelas** por aí.  
-- 🔥 Sempre busco novos desafios e aprendizados.  
-- 🖥️ Confira meu [**portfólio**](https://jeffersondev.netlify.app).
-- 🎹 Quando não estou codando, estou tocando.
+- 📌 Dev **freelancer** as vezes (quase sempre).  
+- 🔥 Facinado em desafios e em aprender.  
+- 🖥️ Dono desse [**portfólio**](https://jeffersondev.netlify.app).
+- 🎹 Músico, quando dá tempo.
 
 ---
 
-## 🛠️ Habilidades  
+## 🤺 Habilidades  
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,js,ts,html,css,sass,nodejs,express,nestjs,java,mysql,postgres,flutter,git,docker&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,nextjs,vite,js,ts,html,css,sass,java,mysql,postgres,flutter,git,docker&theme=dark" />
   </a>
 </p>
 
 ---
 
-## 🌍 Conecte-se comigo  
+## 📊 Os números falam
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jefferson-santos-a87b74277)
-[![Pinterest](https://img.shields.io/badge/-Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/jeffrrwpg678)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/jefferson-santos)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@@JeffersonDev-cv7su)
+![](https://github-readme-activity-graph.vercel.app/graph?username=jefferson-da-silva-santos&theme=react-dark&hide_border=false) |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats  
+## 🌍 Confira onde eu estou
 
 <div align="center">
 
-| 🔥 Streaks | 📈 Estatísticas |
-|------------|----------------|
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=jefferson-da-silva-santos&theme=radical&hide_border=false" alt="Streak Stats"/> | <img src="https://github-readme-stats.vercel.app/api?username=jefferson-da-silva-santos&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/> |
+<a href="https://linkedin.com/in/jefferson-santos-a87b74277" target="_blank">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/linkedin.svg" alt="LinkedIn" width="45" height="45"/>
+</a>
 
-| 🏆 Linguagens Mais Usadas | 🚀 Atividades |
-|---------------------------|---------------|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson-da-silva-santos&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs"/> | ![](https://github-readme-activity-graph.vercel.app/graph?username=jefferson-da-silva-santos&theme=react-dark&hide_border=false) |
+<a href="https://pinterest.com/jeffrrwpg678" target="_blank">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/pinterest.svg" alt="Pinterest" width="45" height="45"/>
+</a>
+
+<a href="https://youtube.com/@@JeffersonDev-cv7su" target="_blank">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/youtube.svg" alt="YouTube" width="45" height="45"/>
+</a>
 
 </div>
 

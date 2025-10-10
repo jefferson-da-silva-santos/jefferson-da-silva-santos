@@ -1,5 +1,4 @@
 # npm start Jefferson_dev.js 🚀
-<img width="2095" height="366" alt="code" src="https://github.com/user-attachments/assets/96b0e6ac-de97-4925-b04d-d0e692809394" />
 
 **Olá, Desenvolvedor!** Meu nome é **Jefferson Santos**, Seja Bem-vindo ao meu perfil. 
 

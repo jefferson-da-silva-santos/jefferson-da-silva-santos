@@ -21,6 +21,9 @@ Fique a vontade para explorar meus projetos...
 
 ---
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61F700&width=435&lines=coffee+first%2C+code+later...)](https://git.io/typing-svg)
+
+
 ## 🤺 Habilidades  
 
 <p align="center">

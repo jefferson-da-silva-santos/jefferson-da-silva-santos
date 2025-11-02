@@ -1,4 +1,4 @@
-# npm start Jefferson_dev.js 🚀
+# npm run Jefferson_dev.js 🚀
 
 **Olá, Desenvolvedor!** Meu nome é **Jefferson Santos**, Seja Bem-vindo ao meu perfil. 
 

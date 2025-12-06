@@ -13,7 +13,6 @@ Fique a vontade para explorar meus projetos...
 - 🎓 **Técnico em Desenvolvimento de Sistemas** @[ETE](https://www.escolatecnicalimoeiro.com.br/) (3/3).  
 - 🌐 Apaixonado por **desenvolvimento Web**.  
 - 📱 Um pequeno explorador do universo **Mobile**.  
-- ☕ **Java Lover**.  
 - 📌 Dev **freelancer** as vezes (quase sempre).  
 - 🔥 Facinado em desafios e em aprender.  
 - 🖥️ Dono desse [**portfólio**](https://jeffersondev.netlify.app).

@@ -17,6 +17,7 @@ Fique a vontade para explorar meus projetos...
 - 🔥 Facinado em desafios e em aprender.  
 - 🖥️ Dono desse [**portfólio**](https://jeffersondev.netlify.app).
 - 🎹 Músico, quando dá tempo.
+- Estou estudando Golang atualmente 💤
 
 ---
 

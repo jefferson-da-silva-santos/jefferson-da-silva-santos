@@ -1,4 +1,18 @@
-# _J E F F E R S O N_ 🚀
+<p align="left">
+  <picture>
+    <source 
+      srcset="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&color=FFFFFF&vCenter=true&width=800&lines=Jefferson;Desenvolvedor+FullStack;C%C3%B3digo+precisa+de+Caf%C3%A9"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&color=000000&vCenter=true&width=800&lines=Jefferson;Desenvolvedor+FullStack;C%C3%B3digo+precisa+de+Caf%C3%A9"
+      media="(prefers-color-scheme: light)"
+    />
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&color=000000&vCenter=true&width=800&lines=Jefferson;Desenvolvedor+FullStack;C%C3%B3digo+precisa+de+Caf%C3%A9"
+    />
+  </picture>
+</p>
 
 **Olá, Desenvolvedor!** Meu nome é **Jefferson Santos**, Seja Bem-vindo ao meu perfil. 
 

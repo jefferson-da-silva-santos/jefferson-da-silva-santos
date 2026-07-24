@@ -29,7 +29,7 @@ Fique a vontade para explorar meus projetos...
 - 📱 Um pequeno explorador do universo **Mobile**.  
 - 📌 Dev **freelancer** as vezes (quase sempre).  
 - 🔥 Facinado em desafios e em aprender.  
-- 🖥️ Dono desse [**portfólio**]([https://jeffersontos.dev](http://jeffersonsantos.dev/)).
+- 🖥️ Dono desse [**portfólio**](http://jeffersonsantos.dev).
 - 🎹 Músico, quando dá tempo.
 - Estou estudando Golang atualmente 💤
 
